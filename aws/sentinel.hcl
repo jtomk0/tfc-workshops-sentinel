@@ -1,5 +1,5 @@
 policy "enforce-mandatory-tags" {
-    enforcement_level = "soft-mandatory"
+    enforcement_level = "advisory"
 }
 
 policy "less-than-100-month" {
